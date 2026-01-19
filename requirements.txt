@@ -1,0 +1,6 @@
+openai>=1.0.0
+zep-cloud>=3.10.0
+python-dotenv>=1.0.1
+streamlit>=1.36.0
+st-link-analysis>=0.2.0
+pydantic>=2.0
